@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AchaOMaior",
+            "request": "launch",
+            "mainClass": "AchaOMaior",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "Aposta",
+            "request": "launch",
+            "mainClass": "Aposta",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "AreaDoCirculo",
+            "request": "launch",
+            "mainClass": "AreaDoCirculo",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "LeImpares",
+            "request": "launch",
+            "mainClass": "Bee.LeImpares",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "Bee1097",
+            "request": "launch",
+            "mainClass": "Bee1097",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "CalculoHipotenusa",
+            "request": "launch",
+            "mainClass": "CalculoHipotenusa",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "Cont1000",
+            "request": "launch",
+            "mainClass": "Cont1000",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "Conta1a100",
+            "request": "launch",
+            "mainClass": "Conta1a100",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "ConverteDistancia",
+            "request": "launch",
+            "mainClass": "ConverteDistancia",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "ConverteTemperatura",
+            "request": "launch",
+            "mainClass": "ConverteTemperatura",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "CrescenteImpar",
+            "request": "launch",
+            "mainClass": "CrescenteImpar",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "ImprimeImpar",
+            "request": "launch",
+            "mainClass": "ImprimeImpar",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "LeExibeAntecessor",
+            "request": "launch",
+            "mainClass": "LeExibeAntecessor",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "NumeroHarmonico",
+            "request": "launch",
+            "mainClass": "NumeroHarmonico",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "Pares",
+            "request": "launch",
+            "mainClass": "Pares",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "Pares100a0for",
+            "request": "launch",
+            "mainClass": "Pares100a0for",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "SomaDoTriplo",
+            "request": "launch",
+            "mainClass": "SomaDoTriplo",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "SomaDosQuadrados",
+            "request": "launch",
+            "mainClass": "SomaDosQuadrados",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "SomaNaturais",
+            "request": "launch",
+            "mainClass": "SomaNaturais",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "Tabuada",
+            "request": "launch",
+            "mainClass": "Tabuada",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "Tabuadas",
+            "request": "launch",
+            "mainClass": "Tabuadas",
+            "projectName": "Faculdade_a3daa4fe"
+        }
+    ]
+}
