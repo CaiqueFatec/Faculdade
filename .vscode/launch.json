@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Compras",
+            "request": "launch",
+            "mainClass": "Compras",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "NoPixTemDesconto",
+            "request": "launch",
+            "mainClass": "NoPixTemDesconto",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "MaiorEntre2",
+            "request": "launch",
+            "mainClass": "MaiorEntre2",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "PositivoNegativo",
+            "request": "launch",
+            "mainClass": "PositivoNegativo",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "ParOuImpar",
+            "request": "launch",
+            "mainClass": "ParOuImpar",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
