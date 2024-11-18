@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReajusteBonus",
+            "request": "launch",
+            "mainClass": "ReajusteBonus",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "EmpresaImposto",
+            "request": "launch",
+            "mainClass": "EmpresaImposto",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "AnoBissexto",
+            "request": "launch",
+            "mainClass": "AnoBissexto",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "LeIdadeServico",
+            "request": "launch",
+            "mainClass": "LeIdadeServico",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "NumerosImpares",
+            "request": "launch",
+            "mainClass": "NumerosImpares",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
+            "name": "ImpostoDeRenda",
+            "request": "launch",
+            "mainClass": "ImpostoDeRenda",
+            "projectName": "Faculdade_a3daa4fe"
+        },
+        {
+            "type": "java",
             "name": "Compras",
             "request": "launch",
             "mainClass": "Compras",
